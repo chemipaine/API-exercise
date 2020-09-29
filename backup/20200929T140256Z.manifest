@@ -1,0 +1,441 @@
+{
+  "meta": {
+    "fileName": "20200929T140256Z.meta",
+    "size": 1825
+  },
+  "limited": false,
+  "files": [
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 36,
+      "fileName": "20200929T140256Z.s36.tar.gz",
+      "size": 10240,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 37,
+      "fileName": "20200929T140256Z.s37.tar.gz",
+      "size": 109568,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 38,
+      "fileName": "20200929T140256Z.s38.tar.gz",
+      "size": 109568,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 39,
+      "fileName": "20200929T140256Z.s39.tar.gz",
+      "size": 109568,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 40,
+      "fileName": "20200929T140256Z.s40.tar.gz",
+      "size": 109568,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 41,
+      "fileName": "20200929T140256Z.s41.tar.gz",
+      "size": 109568,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 42,
+      "fileName": "20200929T140256Z.s42.tar.gz",
+      "size": 109056,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 43,
+      "fileName": "20200929T140256Z.s43.tar.gz",
+      "size": 109568,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 44,
+      "fileName": "20200929T140256Z.s44.tar.gz",
+      "size": 109568,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 45,
+      "fileName": "20200929T140256Z.s45.tar.gz",
+      "size": 109568,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 46,
+      "fileName": "20200929T140256Z.s46.tar.gz",
+      "size": 110080,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 47,
+      "fileName": "20200929T140256Z.s47.tar.gz",
+      "size": 109568,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 48,
+      "fileName": "20200929T140256Z.s48.tar.gz",
+      "size": 109056,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 49,
+      "fileName": "20200929T140256Z.s49.tar.gz",
+      "size": 109568,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 50,
+      "fileName": "20200929T140256Z.s50.tar.gz",
+      "size": 109568,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 51,
+      "fileName": "20200929T140256Z.s51.tar.gz",
+      "size": 109056,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 52,
+      "fileName": "20200929T140256Z.s52.tar.gz",
+      "size": 109568,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 53,
+      "fileName": "20200929T140256Z.s53.tar.gz",
+      "size": 109568,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 54,
+      "fileName": "20200929T140256Z.s54.tar.gz",
+      "size": 109568,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 55,
+      "fileName": "20200929T140256Z.s55.tar.gz",
+      "size": 109568,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 56,
+      "fileName": "20200929T140256Z.s56.tar.gz",
+      "size": 109568,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 57,
+      "fileName": "20200929T140256Z.s57.tar.gz",
+      "size": 109056,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 58,
+      "fileName": "20200929T140256Z.s58.tar.gz",
+      "size": 109568,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 59,
+      "fileName": "20200929T140256Z.s59.tar.gz",
+      "size": 109568,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 60,
+      "fileName": "20200929T140256Z.s60.tar.gz",
+      "size": 110080,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 61,
+      "fileName": "20200929T140256Z.s61.tar.gz",
+      "size": 109568,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 62,
+      "fileName": "20200929T140256Z.s62.tar.gz",
+      "size": 109568,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 63,
+      "fileName": "20200929T140256Z.s63.tar.gz",
+      "size": 109568,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 64,
+      "fileName": "20200929T140256Z.s64.tar.gz",
+      "size": 109568,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 65,
+      "fileName": "20200929T140256Z.s65.tar.gz",
+      "size": 109568,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 66,
+      "fileName": "20200929T140256Z.s66.tar.gz",
+      "size": 109056,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 67,
+      "fileName": "20200929T140256Z.s67.tar.gz",
+      "size": 109568,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 68,
+      "fileName": "20200929T140256Z.s68.tar.gz",
+      "size": 109568,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 69,
+      "fileName": "20200929T140256Z.s69.tar.gz",
+      "size": 109568,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 70,
+      "fileName": "20200929T140256Z.s70.tar.gz",
+      "size": 109568,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 71,
+      "fileName": "20200929T140256Z.s71.tar.gz",
+      "size": 110592,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 72,
+      "fileName": "20200929T140256Z.s72.tar.gz",
+      "size": 110592,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 73,
+      "fileName": "20200929T140256Z.s73.tar.gz",
+      "size": 109568,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 74,
+      "fileName": "20200929T140256Z.s74.tar.gz",
+      "size": 109568,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 75,
+      "fileName": "20200929T140256Z.s75.tar.gz",
+      "size": 109568,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 76,
+      "fileName": "20200929T140256Z.s76.tar.gz",
+      "size": 109568,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 77,
+      "fileName": "20200929T140256Z.s77.tar.gz",
+      "size": 109568,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 78,
+      "fileName": "20200929T140256Z.s78.tar.gz",
+      "size": 109568,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 79,
+      "fileName": "20200929T140256Z.s79.tar.gz",
+      "size": 109568,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 80,
+      "fileName": "20200929T140256Z.s80.tar.gz",
+      "size": 109568,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 81,
+      "fileName": "20200929T140256Z.s81.tar.gz",
+      "size": 109568,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 82,
+      "fileName": "20200929T140256Z.s82.tar.gz",
+      "size": 110080,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 83,
+      "fileName": "20200929T140256Z.s83.tar.gz",
+      "size": 109056,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 84,
+      "fileName": "20200929T140256Z.s84.tar.gz",
+      "size": 109568,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 85,
+      "fileName": "20200929T140256Z.s85.tar.gz",
+      "size": 109568,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 86,
+      "fileName": "20200929T140256Z.s86.tar.gz",
+      "size": 109568,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 87,
+      "fileName": "20200929T140256Z.s87.tar.gz",
+      "size": 109056,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 88,
+      "fileName": "20200929T140256Z.s88.tar.gz",
+      "size": 109568,
+      "lastModified": 0
+    },
+    {
+      "database": "db0",
+      "policy": "autogen",
+      "shardID": 89,
+      "fileName": "20200929T140256Z.s89.tar.gz",
+      "size": 8704,
+      "lastModified": 0
+    }
+  ]
+}
